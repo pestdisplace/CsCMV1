@@ -1,0 +1,185 @@
+{
+  "annotations": {
+    "CsCMVgp1": {
+      "end": 4426,
+      "start": 76,
+      "strand": 1
+    },
+    "CsCMVgp2": {
+      "end": 5124,
+      "start": 4428,
+      "strand": 1
+    },
+    "CsCMVgp3": {
+      "end": 5428,
+      "start": 5089,
+      "strand": 1
+    },
+    "CsCMVgp4": {
+      "end": 5570,
+      "start": 5276,
+      "strand": 1
+    },
+    "CsCMVgp5": {
+      "end": 6262,
+      "start": 5572,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 6376,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Peru",
+          "#E4632E"
+        ],
+        [
+          "China",
+          "#DF4027"
+        ],
+        [
+          "Brazil",
+          "#4928B4"
+        ],
+        [
+          "Argentina",
+          "#4379CD"
+        ],
+        [
+          "Venezuela",
+          "#5CA7A4"
+        ],
+        [
+          "Colombia",
+          "#DC2F24"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "location": {
+      "key": "location",
+      "legendTitle": "location",
+      "menuItem": "location",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "virus": {
+      "key": "virus",
+      "legendTitle": "virus",
+      "menuItem": "virus",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "location",
+    "virus"
+  ],
+  "geo": {
+    "country": {
+      "Argentina": {
+        "latitude": -28.806583,
+        "longitude": -59.487161
+      },
+      "Brazil": {
+        "latitude": -24.909618,
+        "longitude": -48.995209
+      },
+      "China": {
+        "latitude": 19.660797,
+        "longitude": 109.380598
+      },
+      "Colombia": {
+        "latitude": 9.368646,
+        "longitude": -75.318936
+      },
+      "Iran": {
+        "latitude": 32.427908,
+        "longitude": 53.688046
+      },
+      "Peru": {
+        "latitude": -11.504844,
+        "longitude": -77.203361
+      },
+      "Venezuela": {
+        "latitude": 10.32679,
+        "longitude": -66.44766
+      }
+    },
+    "location": {
+      "Amazonas": {
+        "latitude": -2.148012,
+        "longitude": -71.193774
+      },
+      "Chaco": {
+        "latitude": -25.192178,
+        "longitude": -61.689341
+      },
+      "Corrientes": {
+        "latitude": -27.535576,
+        "longitude": -58.82466
+      },
+      "Formosa": {
+        "latitude": -26.210815,
+        "longitude": -58.194627
+      },
+      "Hainan_Danzhou": {
+        "latitude": 19.660797,
+        "longitude": 109.380598
+      },
+      "Miranda": {
+        "latitude": 10.32679,
+        "longitude": -66.44766
+      },
+      "Misiones": {
+        "latitude": -27.060059,
+        "longitude": -54.087483
+      },
+      "Parana": {
+        "latitude": -24.909618,
+        "longitude": -48.995209
+      },
+      "Province_of_Huaral": {
+        "latitude": -11.504844,
+        "longitude": -77.203361
+      },
+      "Sucre": {
+        "latitude": 9.368646,
+        "longitude": -75.318936
+      },
+      "misiones": {
+        "latitude": -27.060059,
+        "longitude": -54.087483
+      }
+    }
+  },
+  "maintainer": [
+    "PestDisPlace",
+    "https://pestdisplace.org/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of cassava common mosaic virus (RdRp) gene",
+  "updated": "25 Jan 2021",
+  "virus_count": 36
+}

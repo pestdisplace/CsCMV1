@@ -1,0 +1,3983 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "Argentina",
+    "country_confidence": {
+      "Argentina": 0.7681217466343518,
+      "China": 0.023640643236812114,
+      "Peru": 0.06861485598675895,
+      "Venezuela": 0.09805173758133749
+    },
+    "country_entropy": 0.8796293628286866,
+    "date": "1997-08-11",
+    "div": 0,
+    "location": "Formosa",
+    "location_confidence": {
+      "Formosa": 0.4711909254694495,
+      "Hainan_Danzhou": 0.04732094086991536,
+      "Miranda": 0.11862211826889746,
+      "Province_of_Huaral": 0.0964485177722142
+    },
+    "location_entropy": 1.9087500532364707,
+    "num_date": 1997.6132030701754,
+    "num_date_confidence": [
+      1992.5866564093653,
+      2001.1068900861742
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {
+        "CsCMVgp1": [
+          "S1Y",
+          "S2C",
+          "*4S",
+          "K7R",
+          "E8G",
+          "L9Q",
+          "T11A",
+          "Q13L",
+          "F17S",
+          "H18L",
+          "K21N",
+          "S22H",
+          "S25R",
+          "Y26A",
+          "L27V",
+          "P28R",
+          "G29Q",
+          "K30R",
+          "T33R",
+          "H34P",
+          "I35T",
+          "S38R",
+          "P39A",
+          "C40S",
+          "K41T",
+          "M45T",
+          "G46E",
+          "R47N",
+          "N50S",
+          "H51R",
+          "L52R",
+          "L54F",
+          "G55R",
+          "R56K",
+          "R57K",
+          "T58P",
+          "S68*",
+          "R70K",
+          "K72R",
+          "W74L",
+          "E75A",
+          "Q77P",
+          "Q81R",
+          "A82V",
+          "*85L",
+          "R86P",
+          "S88F",
+          "K90R",
+          "L91P",
+          "P92Q",
+          "A97E",
+          "*103C",
+          "G104E",
+          "*106S",
+          "E107G",
+          "M108K",
+          "C109F",
+          "T110M",
+          "C111R",
+          "R112P",
+          "S113*",
+          "L122H",
+          "L124K",
+          "S126C",
+          "H127Q",
+          "I128L",
+          "H130P",
+          "*131S",
+          "T132L",
+          "T133N",
+          "A135L",
+          "S138A",
+          "P139H",
+          "P140H",
+          "Q146L",
+          "I149T",
+          "R150S",
+          "V151H",
+          "R152K",
+          "T153M",
+          "R155P",
+          "K163R",
+          "Q164P",
+          "S169F",
+          "P170L",
+          "S171I",
+          "C173*",
+          "L174S",
+          "K175M",
+          "G176A"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.11611357226941657,
+        "country": "Venezuela",
+        "country_confidence": {
+          "Venezuela": 0.9999912727619193
+        },
+        "country_entropy": 0.00012119603638355463,
+        "date": "2013-12-24",
+        "div": 0.0,
+        "location": "Miranda",
+        "location_confidence": {
+          "Miranda": 0.9999872335643561
+        },
+        "location_entropy": 0.0001859262685744491,
+        "num_date": 2013.982424707236,
+        "num_date_confidence": [
+          2013.2896019897767,
+          2014.3460506820725
+        ]
+      },
+      "branch_length": 0.11611357,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.000144089420622516,
+            "country": "Venezuela",
+            "country_confidence": {
+              "Venezuela": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2014-01-01",
+            "div": 2.98e-06,
+            "location": "Miranda",
+            "location_confidence": {
+              "Miranda": 0.9999999999999999
+            },
+            "location_entropy": -9.99866855976916e-13,
+            "num_date": 2014.002737850787,
+            "num_date_confidence": [
+              2014.002737850787,
+              2014.5787170003568
+            ],
+            "raw_date": "2014-XX-XX",
+            "url": "https://apsjournals.apsnet.org/doi/10.1094/PDIS-02-15-0132-PDN",
+            "virus": "CsCMV"
+          },
+          "branch_length": 0.00014409,
+          "clade": 0,
+          "muts": [],
+          "strain": "KP663620",
+          "yvalue": 36
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.0006182714619835938,
+            "country": "Venezuela",
+            "country_confidence": {
+              "Venezuela": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2014-01-25",
+            "div": 0.00145874,
+            "location": "Miranda",
+            "location_confidence": {
+              "Miranda": 0.9999999999999999
+            },
+            "location_entropy": -9.99866855976916e-13,
+            "num_date": 2014.069586116495,
+            "num_date_confidence": [
+              2014.002737850787,
+              2014.9993155373031
+            ],
+            "raw_date": "2014-XX-XX",
+            "url": "https://apsjournals.apsnet.org/doi/10.1094/PDIS-02-15-0132-PDN",
+            "virus": "CsCMV"
+          },
+          "branch_length": 0.00061827,
+          "clade": 1,
+          "muts": [
+            "G561A"
+          ],
+          "strain": "KP663619",
+          "yvalue": 35
+        }
+      ],
+      "clade": 2,
+      "muts": [
+        "C34G",
+        "A35C",
+        "T45C",
+        "A48G",
+        "C54A",
+        "G62A",
+        "G72A",
+        "C75T",
+        "C78A",
+        "C81G",
+        "G87C",
+        "A96G",
+        "A99G",
+        "T102A",
+        "C106T",
+        "A107G",
+        "A114T",
+        "T126C",
+        "A129T",
+        "G133A",
+        "G139T",
+        "A140C",
+        "G141A",
+        "C151A",
+        "T152G",
+        "A153C",
+        "C155G",
+        "C159G",
+        "C160T",
+        "G161C",
+        "G162A",
+        "A165G",
+        "A166G",
+        "C174G",
+        "A177C",
+        "T180C",
+        "C181T",
+        "T190A",
+        "C191G",
+        "G195C",
+        "C196A",
+        "A198C",
+        "T210C",
+        "G213A",
+        "G216A",
+        "A217C",
+        "A220C",
+        "A225G",
+        "A228G",
+        "T231G",
+        "G238C",
+        "G239C",
+        "G243A",
+        "G246A",
+        "A248C",
+        "C262T",
+        "C279G",
+        "G285A",
+        "A291G",
+        "T295C",
+        "G297T",
+        "A300C",
+        "A306C",
+        "A318G",
+        "C321T",
+        "A330T",
+        "G333C",
+        "C339T",
+        "A345G",
+        "T348C",
+        "C351A",
+        "C366A",
+        "A385C",
+        "G387A",
+        "G393C",
+        "A394C",
+        "A396G",
+        "T399A",
+        "G402T",
+        "C405T",
+        "A406G",
+        "T407C",
+        "G411C",
+        "A413T",
+        "C415A",
+        "T441A",
+        "A445C",
+        "C446A",
+        "T447A",
+        "C453G",
+        "T457G",
+        "A458C",
+        "A465C",
+        "A468C",
+        "A469T",
+        "A470C",
+        "C471T",
+        "T472C",
+        "C474A",
+        "G479C",
+        "C480T",
+        "A487C",
+        "A488G",
+        "G489C",
+        "C492A",
+        "C495A",
+        "A513T",
+        "T522C",
+        "A526T",
+        "G527C",
+        "T528A",
+        "G531A",
+        "C534T",
+        "G540C",
+        "A564G",
+        "A567C",
+        "C582T",
+        "C585T",
+        "G588T",
+        "C595A",
+        "T597C",
+        "A600T",
+        "G603C"
+      ],
+      "strain": "NODE_0000034",
+      "yvalue": 35.5
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.007483547410326696,
+        "country": "Argentina",
+        "country_confidence": {
+          "Argentina": 0.8371668987505219,
+          "China": 0.019056795056153493,
+          "Peru": 0.06760409293738324,
+          "Venezuela": 0.050050064338339334
+        },
+        "country_entropy": 0.6791075608856258,
+        "date": "1998-09-01",
+        "div": 0.7268364,
+        "location": "Formosa",
+        "location_confidence": {
+          "Formosa": 0.5325989914737909,
+          "Hainan_Danzhou": 0.04561719070707645,
+          "Miranda": 0.08627555712751997,
+          "Province_of_Huaral": 0.10077970227010323
+        },
+        "location_entropy": 1.7668717000190393,
+        "num_date": 1998.6682033065547,
+        "num_date_confidence": [
+          1995.9951055311326,
+          2000.194173130385
+        ]
+      },
+      "branch_length": 0.00748355,
+      "children": [
+        {
+          "aa_muts": {
+            "CsCMVgp1": [
+              "T5I",
+              "L9R",
+              "Y12S",
+              "Q13L",
+              "R14K",
+              "H18P",
+              "Y26C",
+              "P28L",
+              "K30R",
+              "S31Y",
+              "N32S",
+              "T33I",
+              "*36S",
+              "S38K",
+              "P39A",
+              "K44R",
+              "R47S",
+              "G49D",
+              "T53I",
+              "L54S",
+              "R56K",
+              "R57K",
+              "Y59*",
+              "F61S",
+              "K64R",
+              "S68L",
+              "L76H",
+              "S80N",
+              "P84Q",
+              "R86L",
+              "P87L",
+              "S93*",
+              "S95F",
+              "A97V",
+              "G104E",
+              "R112P",
+              "T114I",
+              "T118I",
+              "R120N",
+              "G121A",
+              "L122R",
+              "L124M",
+              "S126Y",
+              "H130P",
+              "*131S",
+              "T133A",
+              "T137I",
+              "S138G",
+              "P140R",
+              "S145L",
+              "Q146R",
+              "P147V",
+              "G154A",
+              "Q164L",
+              "P168R",
+              "C173F",
+              "L174W",
+              "K175R",
+              "G176V"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.13004948394121027,
+            "country": "Peru",
+            "country_confidence": {
+              "Peru": 0.9999999999999999
+            },
+            "country_entropy": -9.99866855976916e-13,
+            "date": "2017-01-01",
+            "div": 0.8816803900000001,
+            "location": "Province_of_Huaral",
+            "location_confidence": {
+              "Province_of_Huaral": 1.0
+            },
+            "location_entropy": -1.000088900581841e-12,
+            "num_date": 2017.0020533880904,
+            "num_date_confidence": [
+              2016.1226093323066,
+              2017.0020533880904
+            ],
+            "raw_date": "2016-XX-XX",
+            "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+            "virus": "CsCMV"
+          },
+          "branch_length": 0.13004948,
+          "clade": 3,
+          "muts": [
+            "G12C",
+            "A21T",
+            "C24T",
+            "C34A",
+            "A35C",
+            "C36T",
+            "T45C",
+            "G57A",
+            "G62A",
+            "C75T",
+            "C90T",
+            "T102G",
+            "T109C",
+            "A111C",
+            "A114T",
+            "G117A",
+            "A129C",
+            "C151T",
+            "A153G",
+            "C159T",
+            "A165G",
+            "C168A",
+            "A171G",
+            "C174T",
+            "G183C",
+            "G189A",
+            "T190A",
+            "C191G",
+            "A207G",
+            "A217C",
+            "A220C",
+            "G222A",
+            "C234T",
+            "T237C",
+            "G238A",
+            "G243A",
+            "G246A",
+            "C253A",
+            "T258C",
+            "C262T",
+            "G264A",
+            "A267G",
+            "C279T",
+            "T303A",
+            "G315A",
+            "C327A",
+            "G333T",
+            "C336T",
+            "C354G",
+            "C360T",
+            "C366T",
+            "G387A",
+            "G411C",
+            "C417T",
+            "C429T",
+            "G435A",
+            "A436C",
+            "G438C",
+            "T441G",
+            "C446A",
+            "C451T",
+            "C453A",
+            "A465C",
+            "A468C",
+            "A473G",
+            "C486T",
+            "A488G",
+            "C495G",
+            "C510T",
+            "A513G",
+            "G514A",
+            "C515G",
+            "C516T",
+            "G537C",
+            "A567T",
+            "C579G",
+            "G594T",
+            "C595T",
+            "T597G",
+            "A600G",
+            "G603T"
+          ],
+          "strain": "KY288494",
+          "yvalue": 34
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": -0.00448996551428163,
+            "country": "Argentina",
+            "country_confidence": {
+              "Argentina": 0.8477201747736786,
+              "China": 0.018783300095093342,
+              "Peru": 0.06281659597585726,
+              "Venezuela": 0.04585231434800766
+            },
+            "country_entropy": 0.6478061064500367,
+            "date": "1998-01-12",
+            "div": 0.96669455,
+            "location": "Formosa",
+            "location_confidence": {
+              "Formosa": 0.5414559523416533,
+              "Hainan_Danzhou": 0.04569281587780929,
+              "Miranda": 0.08300670920472332,
+              "Province_of_Huaral": 0.09744322603117656
+            },
+            "location_entropy": 1.7480599232786982,
+            "num_date": 1998.0352261342093,
+            "num_date_confidence": [
+              1997.0242166795997,
+              2000.6960148184278
+            ]
+          },
+          "branch_length": -0.00448997,
+          "children": [
+            {
+              "aa_muts": {
+                "CsCMVgp1": [
+                  "S2Y",
+                  "G3S",
+                  "E8G",
+                  "Y12F",
+                  "T15S",
+                  "S19L",
+                  "K21R",
+                  "Y26*",
+                  "L27A",
+                  "S31F",
+                  "N32S",
+                  "H34L",
+                  "I35T",
+                  "K41R",
+                  "K44R",
+                  "M45T",
+                  "G46E",
+                  "G48E",
+                  "N50S",
+                  "H51L",
+                  "Y59L",
+                  "R70K",
+                  "S73N",
+                  "W74L",
+                  "L76P",
+                  "K83R",
+                  "R86H",
+                  "L91V",
+                  "P92Q",
+                  "S93*",
+                  "S95F",
+                  "T96M",
+                  "Q98P",
+                  "L100P",
+                  "T102I",
+                  "M108T",
+                  "S117L",
+                  "V119A",
+                  "P123L",
+                  "T125I",
+                  "H127R",
+                  "A135V",
+                  "P142Q",
+                  "C157Y",
+                  "*162S",
+                  "K163R",
+                  "P168Q",
+                  "C173Y",
+                  "T177I"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.0882317120727551,
+                "country": "Argentina",
+                "country_confidence": {
+                  "Argentina": 0.9981668675146491
+                },
+                "country_entropy": 0.016433141708291337,
+                "date": "2010-06-22",
+                "div": 1.16883052,
+                "location": "Formosa",
+                "location_confidence": {
+                  "Corrientes": 0.043788905865736465,
+                  "Formosa": 0.9385057082021132,
+                  "Misiones": 0.002677550784040167,
+                  "Province_of_Huaral": 0.0031018094210023
+                },
+                "location_entropy": 0.308605117482308,
+                "num_date": 2010.4737759273817,
+                "num_date_confidence": [
+                  2009.0848815765823,
+                  2011.2111095753028
+                ]
+              },
+              "branch_length": 0.08823171,
+              "children": [
+                {
+                  "aa_muts": {
+                    "CsCMVgp1": [
+                      "P28L",
+                      "R57K",
+                      "P87L",
+                      "E105G",
+                      "T118I",
+                      "P147L",
+                      "R160K",
+                      "S161F"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.025032367721238923,
+                    "country": "Argentina",
+                    "country_confidence": {
+                      "Argentina": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2014-01-01",
+                    "div": 1.19588676,
+                    "location": "Formosa",
+                    "location_confidence": {
+                      "Formosa": 1.0
+                    },
+                    "location_entropy": -1.000088900581841e-12,
+                    "num_date": 2014.002737850787,
+                    "num_date_confidence": [
+                      2014.002737850787,
+                      2014.8646263941894
+                    ],
+                    "raw_date": "2014-XX-XX",
+                    "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                    "virus": "CsCMV"
+                  },
+                  "branch_length": 0.02503237,
+                  "clade": 4,
+                  "muts": [
+                    "T9C",
+                    "A30G",
+                    "G43A",
+                    "G63T",
+                    "T69C",
+                    "C159T",
+                    "G246A",
+                    "C336T",
+                    "A390G",
+                    "C429T",
+                    "A468G",
+                    "C516T",
+                    "G555A",
+                    "C558T"
+                  ],
+                  "strain": "KY445953",
+                  "yvalue": 33
+                },
+                {
+                  "aa_muts": {
+                    "CsCMVgp1": [
+                      "*4S",
+                      "L9P",
+                      "Q13R",
+                      "R14K",
+                      "F17S",
+                      "T33I",
+                      "S66N",
+                      "G101D",
+                      "E107G",
+                      "L123Q"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.009564135007800817,
+                    "country": "Argentina",
+                    "country_confidence": {
+                      "Argentina": 0.9996734181430422
+                    },
+                    "country_entropy": 0.0034949461344972363,
+                    "date": "2011-10-27",
+                    "div": 1.18660832,
+                    "location": "Formosa",
+                    "location_confidence": {
+                      "Corrientes": 0.06939090877601392,
+                      "Formosa": 0.918081335449822,
+                      "Misiones": 0.00220371774917421,
+                      "Province_of_Huaral": 0.002025394505545514
+                    },
+                    "location_entropy": 0.3471408341002034,
+                    "num_date": 2011.822088985447,
+                    "num_date_confidence": [
+                      2010.6997218141946,
+                      2012.6354661670634
+                    ]
+                  },
+                  "branch_length": 0.00956414,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "CsCMVgp1": [
+                          "T45M",
+                          "L54S",
+                          "T58I",
+                          "L59S",
+                          "F61S",
+                          "*63L",
+                          "S68L",
+                          "I128T",
+                          "S145L",
+                          "P147H",
+                          "T153M"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.02253736512492565,
+                        "country": "Argentina",
+                        "country_confidence": {
+                          "Argentina": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2014-12-30",
+                        "div": 1.21145522,
+                        "location": "Corrientes",
+                        "location_confidence": {
+                          "Corrientes": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2014.9993155373031,
+                        "num_date_confidence": [
+                          2014.1577891863637,
+                          2014.9993155373031
+                        ],
+                        "raw_date": "2014-XX-XX",
+                        "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                        "virus": "CsCMV"
+                      },
+                      "branch_length": 0.02253737,
+                      "clade": 5,
+                      "muts": [
+                        "A12G",
+                        "A56G",
+                        "G57A",
+                        "C181T",
+                        "C210T",
+                        "T237C",
+                        "C249T",
+                        "T252C",
+                        "T258C",
+                        "G264T",
+                        "C279T",
+                        "G354A",
+                        "T459C",
+                        "C510T",
+                        "C516A",
+                        "C534T"
+                      ],
+                      "strain": "KY445966",
+                      "yvalue": 32
+                    },
+                    {
+                      "aa_muts": {
+                        "CsCMVgp1": [
+                          "T6I",
+                          "K7R",
+                          "H18R",
+                          "A27V",
+                          "G29E",
+                          "K30R",
+                          "L34P",
+                          "E46G",
+                          "G49D",
+                          "L52Q",
+                          "T53I",
+                          "G55E",
+                          "K64R",
+                          "S80N",
+                          "R83K",
+                          "S88F",
+                          "S89N",
+                          "M96T",
+                          "P98L",
+                          "I102T",
+                          "R112L",
+                          "L117S",
+                          "R127H",
+                          "H130Y",
+                          "L136S",
+                          "Q142P",
+                          "T144I",
+                          "L148S",
+                          "R152K",
+                          "Y157C",
+                          "N158S",
+                          "T166I",
+                          "I167T",
+                          "P170Q",
+                          "S171N"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.02253736512492565,
+                        "country": "Argentina",
+                        "country_confidence": {
+                          "Argentina": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2014-12-30",
+                        "div": 1.2724243,
+                        "location": "Formosa",
+                        "location_confidence": {
+                          "Formosa": 1.0
+                        },
+                        "location_entropy": -1.000088900581841e-12,
+                        "num_date": 2014.9993155373031,
+                        "num_date_confidence": [
+                          2014.278626527288,
+                          2014.9993155373031
+                        ],
+                        "raw_date": "2014-XX-XX",
+                        "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                        "virus": "CsCMV"
+                      },
+                      "branch_length": 0.02253737,
+                      "clade": 6,
+                      "muts": [
+                        "A15G",
+                        "T39C",
+                        "T51C",
+                        "C66T",
+                        "C93T",
+                        "A96G",
+                        "A129G",
+                        "A153G",
+                        "C156T",
+                        "G162A",
+                        "A165G",
+                        "T177C",
+                        "G183A",
+                        "A204G",
+                        "A213G",
+                        "G222A",
+                        "T231A",
+                        "C234T",
+                        "G240A",
+                        "A267G",
+                        "G315A",
+                        "G324A",
+                        "C339T",
+                        "G342A",
+                        "T363C",
+                        "C369T",
+                        "T381C",
+                        "G411T",
+                        "T426C",
+                        "G456A",
+                        "C464T",
+                        "T483C",
+                        "A501C",
+                        "C507T",
+                        "T519C",
+                        "G531A",
+                        "A546G",
+                        "A549G",
+                        "C573T",
+                        "T576C",
+                        "C585A",
+                        "G588A"
+                      ],
+                      "strain": "KY445954",
+                      "yvalue": 31
+                    }
+                  ],
+                  "clade": 7,
+                  "muts": [
+                    "C54T",
+                    "G87C",
+                    "T102C",
+                    "A114G",
+                    "G117A",
+                    "T126C",
+                    "C174T",
+                    "G273A",
+                    "G378A",
+                    "A396G",
+                    "T444A"
+                  ],
+                  "strain": "NODE_0000014",
+                  "yvalue": 31.5
+                }
+              ],
+              "clade": 8,
+              "muts": [
+                "G12A",
+                "C15A",
+                "G18C",
+                "A22T",
+                "G23C",
+                "C24A",
+                "C27G",
+                "A33G",
+                "C39T",
+                "A61C",
+                "A63G",
+                "C81A",
+                "G83T",
+                "G84C",
+                "A99G",
+                "T109C",
+                "A111T",
+                "C120G",
+                "C132T",
+                "A138G",
+                "T154A",
+                "C155G",
+                "T156C",
+                "C160A",
+                "C168T",
+                "A171G",
+                "A177T",
+                "T180C",
+                "A198G",
+                "G204A",
+                "A207G",
+                "T210C",
+                "G213A",
+                "G219A",
+                "A225G",
+                "A228T",
+                "A252T",
+                "C253A",
+                "G285A",
+                "G294A",
+                "T295C",
+                "G297T",
+                "T303C",
+                "A324G",
+                "G333A",
+                "G346A",
+                "C347G",
+                "C351A",
+                "C354G",
+                "C360T",
+                "C363T",
+                "A369C",
+                "T375C",
+                "C381T",
+                "T399C",
+                "C426T",
+                "T432C",
+                "C444T",
+                "C450T",
+                "A456G",
+                "C466T",
+                "T472C",
+                "C480T",
+                "C501A",
+                "G546A",
+                "G561C",
+                "A564G",
+                "C579A",
+                "G594A",
+                "C606T"
+              ],
+              "strain": "NODE_0000013",
+              "yvalue": 32.25
+            },
+            {
+              "aa_muts": {
+                "CsCMVgp1": [
+                  "F23C",
+                  "Y26*",
+                  "C40L",
+                  "Y59S",
+                  "F61Y",
+                  "*63L",
+                  "A65V",
+                  "S66N",
+                  "A82G",
+                  "K90N",
+                  "L100Q",
+                  "G101D",
+                  "*106L",
+                  "M108I",
+                  "C109S",
+                  "S115*",
+                  "I128T",
+                  "A135T",
+                  "S138N",
+                  "P139R",
+                  "V151A",
+                  "G154E",
+                  "R155Q",
+                  "C157F",
+                  "N158S",
+                  "S161F",
+                  "N165S",
+                  "I167T",
+                  "P168T",
+                  "S171N"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.035802977627759025,
+                "country": "Argentina",
+                "country_confidence": {
+                  "Argentina": 0.9138889778899788,
+                  "China": 0.031826456098064254,
+                  "Peru": 0.019315342725444197,
+                  "Venezuela": 0.01344803479910451
+                },
+                "country_entropy": 0.4306827829786902,
+                "date": "2003-01-30",
+                "div": 1.17785516,
+                "location": "Formosa",
+                "location_confidence": {
+                  "Formosa": 0.5991408531277024,
+                  "Hainan_Danzhou": 0.07204930797332666,
+                  "Province_of_Huaral": 0.04206574738200051,
+                  "Sucre": 0.04395833013149728
+                },
+                "location_entropy": 1.6285624763181414,
+                "num_date": 2003.08258506565,
+                "num_date_confidence": [
+                  2001.8137467031515,
+                  2004.2796994061216
+                ]
+              },
+              "branch_length": 0.03580298,
+              "children": [
+                {
+                  "aa_muts": {
+                    "CsCMVgp1": [
+                      "T6I",
+                      "G29E",
+                      "S38N",
+                      "L40P",
+                      "K41R",
+                      "S62F",
+                      "L63S",
+                      "S73N",
+                      "Q77P",
+                      "S79L",
+                      "N90S",
+                      "L91P",
+                      "T96M",
+                      "L106S",
+                      "E107G",
+                      "I108T",
+                      "T110I",
+                      "S117L",
+                      "L124P",
+                      "L148S",
+                      "I149T",
+                      "R150K",
+                      "S169F",
+                      "K175R"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.10643995474864446,
+                    "country": "China",
+                    "country_confidence": {
+                      "China": 0.9993679166287547
+                    },
+                    "country_entropy": 0.006046343105050425,
+                    "date": "2018-02-01",
+                    "div": 1.21015511,
+                    "location": "Hainan_Danzhou",
+                    "location_confidence": {
+                      "Hainan_Danzhou": 0.9991452562141514
+                    },
+                    "location_entropy": 0.00882268892046572,
+                    "num_date": 2018.0880592429196,
+                    "num_date_confidence": [
+                      2017.0696362621213,
+                      2018.672081040973
+                    ]
+                  },
+                  "branch_length": 0.10643995,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "CsCMVgp1": [
+                          "S25N"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.005298671335931194,
+                        "country": "China",
+                        "country_confidence": {
+                          "China": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2018-10-31",
+                        "div": 1.21320054,
+                        "location": "Hainan_Danzhou",
+                        "location_confidence": {
+                          "Hainan_Danzhou": 0.9999999999999999
+                        },
+                        "location_entropy": -9.99866855976916e-13,
+                        "num_date": 2018.8350444900752,
+                        "num_date_confidence": [
+                          2018.8350444900752,
+                          2018.906373669143
+                        ],
+                        "raw_date": "2018-11-XX",
+                        "url": "https://www.ncbi.nlm.nih.gov/nuccore/MN428639",
+                        "virus": "CsCMV"
+                      },
+                      "branch_length": 0.00529867,
+                      "clade": 9,
+                      "muts": [
+                        "G150A",
+                        "G183A",
+                        "C559T"
+                      ],
+                      "strain": "MN428639",
+                      "yvalue": 30
+                    },
+                    {
+                      "aa_muts": {
+                        "CsCMVgp1": [
+                          "*26W",
+                          "L52P",
+                          "Y61F",
+                          "F157S"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.009478975598494426,
+                        "country": "China",
+                        "country_confidence": {
+                          "China": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2019-06-04",
+                        "div": 1.21735688,
+                        "location": "Hainan_Danzhou",
+                        "location_confidence": {
+                          "Hainan_Danzhou": 0.9999999999999999
+                        },
+                        "location_entropy": -9.99866855976916e-13,
+                        "num_date": 2019.4243668720055,
+                        "num_date_confidence": [
+                          2019.4243668720055,
+                          2019.4243668720055
+                        ],
+                        "raw_date": "2019-06-4",
+                        "url": "https://apsjournals.apsnet.org/doi/10.1094/PDIS-08-19-1585-PDN",
+                        "virus": "CsCMV"
+                      },
+                      "branch_length": 0.00947898,
+                      "clade": 10,
+                      "muts": [
+                        "A153G",
+                        "T231C",
+                        "A258T",
+                        "T546C"
+                      ],
+                      "strain": "MN243731",
+                      "yvalue": 29
+                    }
+                  ],
+                  "clade": 11,
+                  "muts": [
+                    "G18A",
+                    "A33G",
+                    "T51C",
+                    "G54A",
+                    "C93T",
+                    "G162A",
+                    "G189A",
+                    "T195C",
+                    "A198G",
+                    "C202T",
+                    "C261T",
+                    "T264C",
+                    "G294A",
+                    "A306C",
+                    "C312T",
+                    "A345G",
+                    "T348C",
+                    "C363T",
+                    "T393C",
+                    "A396G",
+                    "T399C",
+                    "C405T",
+                    "C426T",
+                    "T447C",
+                    "A468G",
+                    "T519C",
+                    "T522C",
+                    "G525A",
+                    "C582T",
+                    "A600G"
+                  ],
+                  "strain": "NODE_0000011",
+                  "yvalue": 29.5
+                },
+                {
+                  "aa_muts": {
+                    "CsCMVgp1": [
+                      "S19L",
+                      "*43S",
+                      "K72R",
+                      "S89N",
+                      "S95Y",
+                      "L106F",
+                      "G121E",
+                      "T132I",
+                      "L136S",
+                      "M141T",
+                      "P170L"
+                    ]
+                  },
+                  "attr": {
+                    "clock_length": 0.01647850161330716,
+                    "country": "Argentina",
+                    "country_confidence": {
+                      "Argentina": 0.9779781273821295,
+                      "Brazil": 0.007457586585624235,
+                      "China": 0.003968794255627213,
+                      "Colombia": 0.004234309690692443
+                    },
+                    "country_entropy": 0.14242477692656763,
+                    "date": "2005-05-28",
+                    "div": 1.2161157,
+                    "location": "Formosa",
+                    "location_confidence": {
+                      "Brazil": 0.04217484624123111,
+                      "Chaco": 0.04321173843527795,
+                      "Formosa": 0.6754336814836379,
+                      "Sucre": 0.05339738571007274
+                    },
+                    "location_entropy": 1.3916347288346416,
+                    "num_date": 2005.4056575530676,
+                    "num_date_confidence": [
+                      2004.4224085216515,
+                      2006.310343535224
+                    ]
+                  },
+                  "branch_length": 0.0164785,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "CsCMVgp1": [
+                          "T11I",
+                          "R14K",
+                          "T15I",
+                          "S25N",
+                          "R70K",
+                          "K78R",
+                          "G82D",
+                          "P84L",
+                          "L91P",
+                          "T96M",
+                          "S117L",
+                          "R150K",
+                          "R160K",
+                          "S169F"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.028272134404562055,
+                        "country": "Argentina",
+                        "country_confidence": {
+                          "Argentina": 0.8917852297945796,
+                          "Brazil": 0.04677614269797576,
+                          "Colombia": 0.03764272302141565,
+                          "Iran": 0.0175401855946044
+                        },
+                        "country_entropy": 0.47816163649996524,
+                        "date": "2009-05-22",
+                        "div": 1.23592102,
+                        "location": "Sucre",
+                        "location_confidence": {
+                          "Brazil": 0.19406021691870706,
+                          "Formosa": 0.19785511637114767,
+                          "Sucre": 0.2599294831789257,
+                          "misiones": 0.15145903443955255
+                        },
+                        "location_entropy": 1.9473865067161422,
+                        "num_date": 2009.3913486757835,
+                        "num_date_confidence": [
+                          2008.448807314412,
+                          2010.4942412704263
+                        ]
+                      },
+                      "branch_length": 0.02827213,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "CsCMVgp1": [
+                              "F17S",
+                              "P92L"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.010550281914650655,
+                            "country": "Argentina",
+                            "country_confidence": {
+                              "Argentina": 0.6444933047138228,
+                              "Brazil": 0.21470821159537062,
+                              "Colombia": 0.02714369656860185,
+                              "Iran": 0.09654923281556703
+                            },
+                            "country_entropy": 1.0250302862971212,
+                            "date": "2010-11-16",
+                            "div": 1.23920127,
+                            "location": "Brazil",
+                            "location_confidence": {
+                              "Brazil": 0.361924489126153,
+                              "Formosa": 0.12062842552397303,
+                              "Sucre": 0.14959302265023341,
+                              "iran": 0.1811625068370946
+                            },
+                            "location_entropy": 1.8574826188303692,
+                            "num_date": 2010.8786847349454,
+                            "num_date_confidence": [
+                              2009.6218118065701,
+                              2012.6191449601668
+                            ]
+                          },
+                          "branch_length": 0.01055028,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "*4X",
+                                  "Y12C",
+                                  "L19X",
+                                  "M20X",
+                                  "*26X",
+                                  "*36X",
+                                  "G46E",
+                                  "T53I",
+                                  "*60X",
+                                  "S73N",
+                                  "S79L",
+                                  "K83R",
+                                  "*85X",
+                                  "*103X",
+                                  "E105G",
+                                  "*115X",
+                                  "*116X",
+                                  "*131X",
+                                  "P147H",
+                                  "R152K",
+                                  "*162X"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.03150138894034018,
+                                "country": "Brazil",
+                                "country_confidence": {
+                                  "Brazil": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-04-26",
+                                "div": 1.26735154,
+                                "location": "Brazil",
+                                "location_confidence": {
+                                  "Brazil": 0.9999999999999999
+                                },
+                                "location_entropy": -9.99866855976916e-13,
+                                "num_date": 2015.3196230969418,
+                                "num_date_confidence": [
+                                  2013.1596594651978,
+                                  2017.687462783928
+                                ],
+                                "raw_date": "XXX-XX-XX",
+                                "url": "https://doi.org/10.1099/0022-1317-77-3-525",
+                                "virus": "CsCMV"
+                              },
+                              "branch_length": 0.03150139,
+                              "clade": 12,
+                              "muts": [
+                                "T3C",
+                                "G31C",
+                                "G45A",
+                                "T51C",
+                                "G62A",
+                                "A111G",
+                                "T132-",
+                                "G133-",
+                                "A134-",
+                                "G213A",
+                                "C234T",
+                                "A255G",
+                                "G294A",
+                                "C312T",
+                                "A324G",
+                                "A390G",
+                                "C516A",
+                                "G531A",
+                                "C559T"
+                              ],
+                              "strain": "NC_001658",
+                              "yvalue": 28
+                            },
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "S2F",
+                                  "T58I",
+                                  "S59F",
+                                  "L63*",
+                                  "S80N",
+                                  "Y95S",
+                                  "I108T",
+                                  "T114I",
+                                  "L122P",
+                                  "T125I",
+                                  "S126Y"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.050533817346857135,
+                                "country": "Iran",
+                                "country_confidence": {
+                                  "Iran": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2018-01-01",
+                                "div": 1.2615034299999999,
+                                "location": "iran",
+                                "location_confidence": {
+                                  "iran": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2018.002737850787,
+                                "num_date_confidence": [
+                                  2018.002737850787,
+                                  2018.7283697624675
+                                ],
+                                "raw_date": "2018-XX-XX",
+                                "url": "http://24ippc.areeo.ac.ir/paper?manu=6372",
+                                "virus": "CsCMV"
+                              },
+                              "branch_length": 0.05053382,
+                              "clade": 13,
+                              "muts": [
+                                "G60A",
+                                "C81T",
+                                "C181T",
+                                "C249T",
+                                "C252T",
+                                "T264G",
+                                "G315A",
+                                "A360C",
+                                "T399C",
+                                "C417T",
+                                "T441C",
+                                "C450T",
+                                "C453A",
+                                "A468G"
+                              ],
+                              "strain": "MT334616",
+                              "yvalue": 27
+                            }
+                          ],
+                          "clade": 14,
+                          "muts": [
+                            "C39T",
+                            "T126C",
+                            "C351T"
+                          ],
+                          "strain": "NODE_0000000",
+                          "yvalue": 27.5
+                        },
+                        {
+                          "aa_muts": {
+                            "CsCMVgp1": [
+                              "C23Y",
+                              "R47K",
+                              "L159S"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.008186757123273936,
+                            "country": "Argentina",
+                            "country_confidence": {
+                              "Argentina": 0.8868026350380503,
+                              "Brazil": 0.029378160795587117,
+                              "Colombia": 0.06727721723486521,
+                              "Iran": 0.010797196888850998
+                            },
+                            "country_entropy": 0.4764504034753989,
+                            "date": "2010-07-18",
+                            "div": 1.24413646,
+                            "location": "Sucre",
+                            "location_confidence": {
+                              "Brazil": 0.10577468251219659,
+                              "Formosa": 0.11268068813087594,
+                              "Sucre": 0.40482224432128305,
+                              "misiones": 0.2448479772522032
+                            },
+                            "location_entropy": 1.7151786624826129,
+                            "num_date": 2010.5454845723928,
+                            "num_date_confidence": [
+                              2009.4329749169788,
+                              2011.2093858637463
+                            ]
+                          },
+                          "branch_length": 0.00818676,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "M20L",
+                                  "S31F",
+                                  "N32S",
+                                  "K41R",
+                                  "S62F",
+                                  "*85L",
+                                  "S88F",
+                                  "Q98R",
+                                  "T114I",
+                                  "L117S",
+                                  "T141M",
+                                  "P147L",
+                                  "L148S",
+                                  "S158N",
+                                  "T168A"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.03159284143657939,
+                                "country": "Argentina",
+                                "country_confidence": {
+                                  "Argentina": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2014-12-30",
+                                "div": 1.27852718,
+                                "location": "misiones",
+                                "location_confidence": {
+                                  "misiones": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2014.9993155373031,
+                                "num_date_confidence": [
+                                  2014.1337806229237,
+                                  2014.9993155373031
+                                ],
+                                "raw_date": "2014-XX-XX",
+                                "url": "https://apsjournals.apsnet.org/doi/10.1094/PDIS-10-14-1088-PDN",
+                                "virus": "CsCMV"
+                              },
+                              "branch_length": 0.03159284,
+                              "clade": 15,
+                              "muts": [
+                                "A43G",
+                                "G54A",
+                                "C72T",
+                                "C85T",
+                                "A134T",
+                                "C160A",
+                                "C168T",
+                                "A171G",
+                                "A198G",
+                                "C261T",
+                                "A330T",
+                                "C339T",
+                                "A369G",
+                                "C417T",
+                                "T426C",
+                                "C498T",
+                                "C516T",
+                                "T519C",
+                                "G549A",
+                                "A578G"
+                              ],
+                              "strain": "KP025969",
+                              "yvalue": 26
+                            },
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "S2P",
+                                  "L9P",
+                                  "Q13R",
+                                  "K14R",
+                                  "K30R",
+                                  "S43L",
+                                  "K47E",
+                                  "T58I",
+                                  "K70R",
+                                  "R72K",
+                                  "Q77*",
+                                  "L84P",
+                                  "P91L",
+                                  "P147H",
+                                  "F161S",
+                                  "T166I",
+                                  "T168I"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.023094035502595422,
+                                "country": "Colombia",
+                                "country_confidence": {
+                                  "Colombia": 0.9999999999998505
+                                },
+                                "country_entropy": 3.265386779319919e-12,
+                                "date": "2013-10-19",
+                                "div": 1.28167022,
+                                "location": "Sucre",
+                                "location_confidence": {
+                                  "Amazonas": 0.002027697422911003,
+                                  "Sucre": 0.9979722796068732
+                                },
+                                "location_entropy": 0.01459955949120192,
+                                "num_date": 2013.8011882618719,
+                                "num_date_confidence": [
+                                  2013.5704905086,
+                                  2013.9365099224847
+                                ]
+                              },
+                              "branch_length": 0.02309404,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "CsCMVgp1": [
+                                      "L122P"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "clock_length": 0.0014053976556984635,
+                                    "country": "Colombia",
+                                    "country_confidence": {
+                                      "Colombia": 0.9999999999999999
+                                    },
+                                    "country_entropy": -9.99866855976916e-13,
+                                    "date": "2013-12-30",
+                                    "div": 1.28310194,
+                                    "location": "Amazonas",
+                                    "location_confidence": {
+                                      "Amazonas": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2013.9993155373031,
+                                    "num_date_confidence": [
+                                      2013.7628523778747,
+                                      2013.9993155373031
+                                    ],
+                                    "raw_date": "2013-XX-XX",
+                                    "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                    "virus": "CsCMV"
+                                  },
+                                  "branch_length": 0.0014054,
+                                  "clade": 16,
+                                  "muts": [
+                                    "T441C"
+                                  ],
+                                  "strain": "KT002422",
+                                  "yvalue": 25
+                                },
+                                {
+                                  "aa_muts": {
+                                    "CsCMVgp1": [
+                                      "M143I"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "clock_length": 0.0014296735224964205,
+                                    "country": "Colombia",
+                                    "country_confidence": {
+                                      "Colombia": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-01-01",
+                                    "div": 1.2831025600000001,
+                                    "location": "Sucre",
+                                    "location_confidence": {
+                                      "Sucre": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2014.002737850787,
+                                    "num_date_confidence": [
+                                      2014.002737850787,
+                                      2014.6343380840428
+                                    ],
+                                    "raw_date": "2014-XX-XX",
+                                    "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                    "virus": "CsCMV"
+                                  },
+                                  "branch_length": 0.00142967,
+                                  "clade": 17,
+                                  "muts": [
+                                    "G505A"
+                                  ],
+                                  "strain": "KT002445",
+                                  "yvalue": 24
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0014296735224964205,
+                                    "country": "Colombia",
+                                    "country_confidence": {
+                                      "Colombia": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-01-01",
+                                    "div": 1.28310235,
+                                    "location": "Sucre",
+                                    "location_confidence": {
+                                      "Sucre": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2014.002737850787,
+                                    "num_date_confidence": [
+                                      2014.002737850787,
+                                      2014.6343189191364
+                                    ],
+                                    "raw_date": "2014-XX-XX",
+                                    "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                    "virus": "CsCMV"
+                                  },
+                                  "branch_length": 0.00142967,
+                                  "clade": 18,
+                                  "muts": [
+                                    "A175G"
+                                  ],
+                                  "strain": "KT002444",
+                                  "yvalue": 23
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0008597633141069205,
+                                    "country": "Colombia",
+                                    "country_confidence": {
+                                      "Colombia": 0.9999999999999999
+                                    },
+                                    "country_entropy": -9.99866855976916e-13,
+                                    "date": "2013-12-02",
+                                    "div": 1.28167022,
+                                    "location": "Amazonas",
+                                    "location_confidence": {
+                                      "Amazonas": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2013.9223942153963,
+                                    "num_date_confidence": [
+                                      2013.6952552515004,
+                                      2013.9993155373031
+                                    ],
+                                    "raw_date": "2013-XX-XX",
+                                    "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                    "virus": "CsCMV"
+                                  },
+                                  "branch_length": 0.00085976,
+                                  "clade": 19,
+                                  "muts": [],
+                                  "strain": "KT002441",
+                                  "yvalue": 22
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0012855841018739045,
+                                    "country": "Colombia",
+                                    "country_confidence": {
+                                      "Colombia": 0.9999999952851554
+                                    },
+                                    "country_entropy": 1.0237678123213898e-07,
+                                    "date": "2013-12-24",
+                                    "div": 1.28167022,
+                                    "location": "Sucre",
+                                    "location_confidence": {
+                                      "Sucre": 0.9999972421341776
+                                    },
+                                    "location_entropy": 3.8260677904957514e-05,
+                                    "num_date": 2013.982424707236,
+                                    "num_date_confidence": [
+                                      2013.7243997936466,
+                                      2014.2892616710317
+                                    ]
+                                  },
+                                  "branch_length": 0.00128558,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0002672990839787462,
+                                        "country": "Colombia",
+                                        "country_confidence": {
+                                          "Colombia": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2014-01-07",
+                                        "div": 1.28167122,
+                                        "location": "Sucre",
+                                        "location_confidence": {
+                                          "Sucre": 0.9999999999999999
+                                        },
+                                        "location_entropy": -9.99866855976916e-13,
+                                        "num_date": 2014.0201074506356,
+                                        "num_date_confidence": [
+                                          2014.002737850787,
+                                          2014.9993155373031
+                                        ],
+                                        "raw_date": "2014-XX-XX",
+                                        "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                        "virus": "CsCMV"
+                                      },
+                                      "branch_length": 0.0002673,
+                                      "clade": 20,
+                                      "muts": [],
+                                      "strain": "KT002442",
+                                      "yvalue": 21
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0005345377308503055,
+                                        "country": "Colombia",
+                                        "country_confidence": {
+                                          "Colombia": 0.9999999952995918
+                                        },
+                                        "country_entropy": 1.0207765379712506e-07,
+                                        "date": "2014-01-21",
+                                        "div": 1.28167022,
+                                        "location": "Sucre",
+                                        "location_confidence": {
+                                          "Sucre": 0.9999999719672503
+                                        },
+                                        "location_entropy": 5.658533745294567e-07,
+                                        "num_date": 2014.0577816738562,
+                                        "num_date_confidence": [
+                                          2013.9018256301345,
+                                          2014.554946898572
+                                        ]
+                                      },
+                                      "branch_length": 0.00053454,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.001132123603803624,
+                                            "country": "Colombia",
+                                            "country_confidence": {
+                                              "Colombia": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2014-03-20",
+                                            "div": 1.28167022,
+                                            "location": "Sucre",
+                                            "location_confidence": {
+                                              "Sucre": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2014.2173838790852,
+                                            "num_date_confidence": [
+                                              2014.002737850787,
+                                              2014.9993155373031
+                                            ],
+                                            "raw_date": "2014-XX-XX",
+                                            "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.00113212,
+                                          "clade": 21,
+                                          "muts": [],
+                                          "strain": "KT002443",
+                                          "yvalue": 20
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.001132123603803624,
+                                            "country": "Colombia",
+                                            "country_confidence": {
+                                              "Colombia": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2014-03-20",
+                                            "div": 1.28167022,
+                                            "location": "Sucre",
+                                            "location_confidence": {
+                                              "Sucre": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2014.2173838790852,
+                                            "num_date_confidence": [
+                                              2014.002737850787,
+                                              2014.9993155373031
+                                            ],
+                                            "raw_date": "2014-XX-XX",
+                                            "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.00113212,
+                                          "clade": 22,
+                                          "muts": [],
+                                          "strain": "KT002446",
+                                          "yvalue": 19
+                                        }
+                                      ],
+                                      "clade": 23,
+                                      "muts": [],
+                                      "strain": "NODE_0000036",
+                                      "yvalue": 19.5
+                                    }
+                                  ],
+                                  "clade": 24,
+                                  "muts": [],
+                                  "strain": "NODE_0000035",
+                                  "yvalue": 20.25
+                                }
+                              ],
+                              "clade": 25,
+                              "muts": [
+                                "T3C",
+                                "C25A",
+                                "G62A",
+                                "C75T",
+                                "T80C",
+                                "T102C",
+                                "A114G",
+                                "A117G",
+                                "A165G",
+                                "C204T",
+                                "A215G",
+                                "C249T",
+                                "A285G",
+                                "G291A",
+                                "C305T",
+                                "T327C",
+                                "C348T",
+                                "T403C",
+                                "A468G",
+                                "C516A",
+                                "T558C",
+                                "C573T",
+                                "C579T"
+                              ],
+                              "strain": "NODE_0000003",
+                              "yvalue": 22.625
+                            }
+                          ],
+                          "clade": 26,
+                          "muts": [
+                            "C15T",
+                            "G72C",
+                            "G144A",
+                            "G216A",
+                            "T552C"
+                          ],
+                          "strain": "NODE_0000002",
+                          "yvalue": 24.3125
+                        }
+                      ],
+                      "clade": 27,
+                      "muts": [
+                        "C24T",
+                        "T45G",
+                        "C108T",
+                        "G117A",
+                        "C120T",
+                        "G150A",
+                        "G285A",
+                        "T295C",
+                        "A309G",
+                        "G321A",
+                        "C327T",
+                        "T348C",
+                        "C363T",
+                        "C426T",
+                        "C466T",
+                        "G525A",
+                        "G555A",
+                        "C582T"
+                      ],
+                      "strain": "NODE_0000001",
+                      "yvalue": 25.90625
+                    },
+                    {
+                      "aa_muts": {
+                        "CsCMVgp1": [
+                          "*4S",
+                          "Y12C",
+                          "H34L",
+                          "P87L",
+                          "E105G",
+                          "R112Q",
+                          "L124R",
+                          "F161Y",
+                          "G176D"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.014284539008498742,
+                        "country": "Argentina",
+                        "country_confidence": {
+                          "Argentina": 0.9992289628646288
+                        },
+                        "country_entropy": 0.007570515639758139,
+                        "date": "2007-06-02",
+                        "div": 1.25414998,
+                        "location": "Formosa",
+                        "location_confidence": {
+                          "Chaco": 0.057798134441954765,
+                          "Corrientes": 0.014680116294756497,
+                          "Formosa": 0.8319116540134621,
+                          "Misiones": 0.04691250645091283
+                        },
+                        "location_entropy": 0.772866613906596,
+                        "num_date": 2007.4194340689673,
+                        "num_date_confidence": [
+                          2006.6544634403988,
+                          2008.1390093505215
+                        ]
+                      },
+                      "branch_length": 0.01428454,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "CsCMVgp1": [
+                              "T5I",
+                              "L52R",
+                              "G55E",
+                              "T58I",
+                              "S59F",
+                              "Y61F",
+                              "L63S",
+                              "K78R",
+                              "S80N",
+                              "Q81R",
+                              "Y95C",
+                              "Q98P",
+                              "Q100R",
+                              "G104E",
+                              "I108T",
+                              "S109Y",
+                              "L122P",
+                              "I132T",
+                              "T135I",
+                              "T141M",
+                              "R160K"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.037679920384112914,
+                            "country": "Argentina",
+                            "country_confidence": {
+                              "Argentina": 0.9999796483698491
+                            },
+                            "country_entropy": 0.0002740231212027588,
+                            "date": "2012-09-24",
+                            "div": 1.2957939,
+                            "location": "Chaco",
+                            "location_confidence": {
+                              "Chaco": 0.8443919226216787,
+                              "Formosa": 0.1530566550793673
+                            },
+                            "location_entropy": 0.4511156601216734,
+                            "num_date": 2012.731396796315,
+                            "num_date_confidence": [
+                              2011.7123677445709,
+                              2013.1562733242588
+                            ]
+                          },
+                          "branch_length": 0.03767992,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "P16Q",
+                                  "T33I",
+                                  "R52Q",
+                                  "R69K",
+                                  "L87P",
+                                  "T96M",
+                                  "P98L",
+                                  "T114I",
+                                  "S117L",
+                                  "R124W",
+                                  "S136L",
+                                  "L148S",
+                                  "Q155P",
+                                  "S158G"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.02318068185008923,
+                                "country": "Argentina",
+                                "country_confidence": {
+                                  "Argentina": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2015-12-30",
+                                "div": 1.3206016200000001,
+                                "location": "Formosa",
+                                "location_confidence": {
+                                  "Formosa": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2015.9993155373031,
+                                "num_date_confidence": [
+                                  2015.1376945617144,
+                                  2015.9993155373031
+                                ],
+                                "raw_date": "2015-XX-XX",
+                                "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                "virus": "CsCMV"
+                              },
+                              "branch_length": 0.02318068,
+                              "clade": 28,
+                              "muts": [
+                                "C24T",
+                                "C123A",
+                                "C174T",
+                                "G231A",
+                                "T253C",
+                                "G282A",
+                                "T336C",
+                                "C363T",
+                                "C369T",
+                                "C417T",
+                                "C426T",
+                                "C446T",
+                                "C483T",
+                                "T519C",
+                                "A540C",
+                                "A548G"
+                              ],
+                              "strain": "KY445958",
+                              "yvalue": 18
+                            },
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "S43L",
+                                  "L76R",
+                                  "P123L",
+                                  "T153M"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.01611154943860168,
+                                "country": "Argentina",
+                                "country_confidence": {
+                                  "Argentina": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-01-01",
+                                "div": 1.31017131,
+                                "location": "Chaco",
+                                "location_confidence": {
+                                  "Chaco": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2015.002737850787,
+                                "num_date_confidence": [
+                                  2015.002737850787,
+                                  2015.7957276421907
+                                ],
+                                "raw_date": "2015-XX-XX",
+                                "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                "virus": "CsCMV"
+                              },
+                              "branch_length": 0.01611155,
+                              "clade": 29,
+                              "muts": [
+                                "C27T",
+                                "C36T",
+                                "T51C",
+                                "G54A",
+                                "G63A",
+                                "C204T",
+                                "T303G",
+                                "C444T",
+                                "C534T"
+                              ],
+                              "strain": "KY445962",
+                              "yvalue": 17
+                            },
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "E8G",
+                                  "H18L",
+                                  "P28L",
+                                  "S38N",
+                                  "K44R",
+                                  "R57K",
+                                  "I58T",
+                                  "S63*",
+                                  "S79L",
+                                  "R81Q",
+                                  "P84L",
+                                  "T110I",
+                                  "S126F",
+                                  "H130P",
+                                  "N138S",
+                                  "Q146L",
+                                  "L170P"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.02318068185008923,
+                                "country": "Argentina",
+                                "country_confidence": {
+                                  "Argentina": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2015-12-30",
+                                "div": 1.33061933,
+                                "location": "Chaco",
+                                "location_confidence": {
+                                  "Chaco": 1.0
+                                },
+                                "location_entropy": -1.000088900581841e-12,
+                                "num_date": 2015.9993155373031,
+                                "num_date_confidence": [
+                                  2015.2934456602502,
+                                  2015.9993155373031
+                                ],
+                                "raw_date": "2015-XX-XX",
+                                "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                "virus": "CsCMV"
+                              },
+                              "branch_length": 0.02318068,
+                              "clade": 30,
+                              "muts": [
+                                "T9C",
+                                "G71A",
+                                "A99G",
+                                "A129T",
+                                "T142C",
+                                "T145C",
+                                "C159T",
+                                "G189A",
+                                "A207G",
+                                "G246A",
+                                "T249C",
+                                "C264A",
+                                "C312T",
+                                "G318A",
+                                "C327T",
+                                "C405T",
+                                "C453T",
+                                "A465C",
+                                "A489G",
+                                "A513T",
+                                "T585C"
+                              ],
+                              "strain": "KY445961",
+                              "yvalue": 16
+                            }
+                          ],
+                          "clade": 31,
+                          "muts": [
+                            "T3C",
+                            "G60A",
+                            "A63G",
+                            "C66T",
+                            "C90T",
+                            "T231G",
+                            "G240A",
+                            "C249T",
+                            "C252T",
+                            "C253T",
+                            "A258T",
+                            "T264C",
+                            "A309G",
+                            "G315A",
+                            "A318G",
+                            "A360G",
+                            "A369C",
+                            "A375G",
+                            "G387A",
+                            "T399C",
+                            "C402A",
+                            "T441C",
+                            "T471C",
+                            "C480T",
+                            "C498T",
+                            "G555A"
+                          ],
+                          "strain": "NODE_0000018",
+                          "yvalue": 17.0
+                        },
+                        {
+                          "aa_muts": {
+                            "CsCMVgp1": [
+                              "S1F",
+                              "P28L",
+                              "K30R",
+                              "W74*",
+                              "K83R",
+                              "D101G",
+                              "Q155R"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.0054223133059515954,
+                            "country": "Argentina",
+                            "country_confidence": {
+                              "Argentina": 0.9999581720293618
+                            },
+                            "country_entropy": 0.0005261726099610626,
+                            "date": "2008-03-08",
+                            "div": 1.2673233799999999,
+                            "location": "Formosa",
+                            "location_confidence": {
+                              "Chaco": 0.006478382123609367,
+                              "Corrientes": 0.015527651878697118,
+                              "Formosa": 0.9090491253518523,
+                              "Misiones": 0.057702162498469066
+                            },
+                            "location_entropy": 0.41867678319976676,
+                            "num_date": 2008.1838498608158,
+                            "num_date_confidence": [
+                              2007.5330110489917,
+                              2008.8319992923196
+                            ]
+                          },
+                          "branch_length": 0.00542231,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "L34P",
+                                  "S59F",
+                                  "R86H",
+                                  "L122P",
+                                  "I149T",
+                                  "F157C",
+                                  "Q164L",
+                                  "K175R"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.013568024193506861,
+                                "country": "Argentina",
+                                "country_confidence": {
+                                  "Argentina": 0.9998858873014242
+                                },
+                                "country_entropy": 0.0013445463146266302,
+                                "date": "2010-02-04",
+                                "div": 1.2893043899999999,
+                                "location": "Formosa",
+                                "location_confidence": {
+                                  "Chaco": 0.0023179804023215917,
+                                  "Corrientes": 0.006040171126445026,
+                                  "Formosa": 0.9136771406616109,
+                                  "Misiones": 0.07236620389845774
+                                },
+                                "location_entropy": 0.3575561981836331,
+                                "num_date": 2010.0966150170302,
+                                "num_date_confidence": [
+                                  2009.196707100118,
+                                  2010.7809325825735
+                                ]
+                              },
+                              "branch_length": 0.01356802,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "CsCMVgp1": [
+                                      "S4L",
+                                      "L9P",
+                                      "S31F",
+                                      "N32S",
+                                      "I35T",
+                                      "K44R",
+                                      "G46E",
+                                      "G48E",
+                                      "N50S",
+                                      "*60L",
+                                      "V65A",
+                                      "S68L",
+                                      "R70K",
+                                      "S79*",
+                                      "Q81R",
+                                      "P84L",
+                                      "L87P",
+                                      "Q100R",
+                                      "Q112R",
+                                      "P142L",
+                                      "Q146R",
+                                      "L148S",
+                                      "C157Y",
+                                      "L164P",
+                                      "L170P"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "clock_length": 0.0276554641230257,
+                                    "country": "Argentina",
+                                    "country_confidence": {
+                                      "Argentina": 0.9999890169803198
+                                    },
+                                    "country_entropy": 0.0001552320842700277,
+                                    "date": "2013-12-29",
+                                    "div": 1.3466834399999998,
+                                    "location": "Misiones",
+                                    "location_confidence": {
+                                      "Misiones": 0.9992005873435909
+                                    },
+                                    "location_entropy": 0.007071237140603003,
+                                    "num_date": 2013.9953704584286,
+                                    "num_date_confidence": [
+                                      2013.6050636679358,
+                                      2014.5431889820502
+                                    ]
+                                  },
+                                  "branch_length": 0.02765546,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "L19S",
+                                          "R30K",
+                                          "T149I"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.00712139233343248,
+                                        "country": "Argentina",
+                                        "country_confidence": {
+                                          "Argentina": 0.9999999999999999
+                                        },
+                                        "country_entropy": -9.99866855976916e-13,
+                                        "date": "2014-12-30",
+                                        "div": 1.3524449899999997,
+                                        "location": "Misiones",
+                                        "location_confidence": {
+                                          "Misiones": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2014.9993155373031,
+                                        "num_date_confidence": [
+                                          2014.3335265141156,
+                                          2014.9993155373031
+                                        ],
+                                        "raw_date": "2014-XX-XX",
+                                        "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                        "virus": "CsCMV"
+                                      },
+                                      "branch_length": 0.00712139,
+                                      "clade": 32,
+                                      "muts": [
+                                        "T3C",
+                                        "T132C",
+                                        "G165A",
+                                        "C522T"
+                                      ],
+                                      "strain": "KY445965",
+                                      "yvalue": 15
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "G105E"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.0020575725509854384,
+                                        "country": "Argentina",
+                                        "country_confidence": {
+                                          "Argentina": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2014-04-14",
+                                        "div": 1.34808347,
+                                        "location": "Misiones",
+                                        "location_confidence": {
+                                          "Misiones": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2014.2854387119767,
+                                        "num_date_confidence": [
+                                          2014.002737850787,
+                                          2014.9993155373031
+                                        ],
+                                        "raw_date": "2014-XX-XX",
+                                        "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                        "virus": "CsCMV"
+                                      },
+                                      "branch_length": 0.00205757,
+                                      "clade": 33,
+                                      "muts": [
+                                        "G390A"
+                                      ],
+                                      "strain": "KY445964",
+                                      "yvalue": 14
+                                    }
+                                  ],
+                                  "clade": 34,
+                                  "muts": [
+                                    "C15T",
+                                    "A33G",
+                                    "C36T",
+                                    "A43G",
+                                    "T45C",
+                                    "C87T",
+                                    "T102C",
+                                    "C168T",
+                                    "A171G",
+                                    "T180C",
+                                    "C181T",
+                                    "A207G",
+                                    "G213A",
+                                    "G219A",
+                                    "A225G",
+                                    "A255T",
+                                    "T270C",
+                                    "C279T",
+                                    "G285A",
+                                    "T295C",
+                                    "C312A",
+                                    "A318G",
+                                    "C327T",
+                                    "T336C",
+                                    "A375G",
+                                    "A411G",
+                                    "A468G",
+                                    "C501T",
+                                    "A513G",
+                                    "T519C",
+                                    "G546A",
+                                    "C559T",
+                                    "T567C",
+                                    "T585C"
+                                  ],
+                                  "strain": "NODE_0000022",
+                                  "yvalue": 14.5
+                                },
+                                {
+                                  "aa_muts": {
+                                    "CsCMVgp1": [
+                                      "R69K",
+                                      "E107G",
+                                      "R124W",
+                                      "T125I",
+                                      "S126F",
+                                      "P140L",
+                                      "R152K"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "clock_length": 0.00822078665559052,
+                                    "country": "Argentina",
+                                    "country_confidence": {
+                                      "Argentina": 0.9997004068461767
+                                    },
+                                    "country_entropy": 0.0032447778971688044,
+                                    "date": "2011-04-03",
+                                    "div": 1.3019979299999997,
+                                    "location": "Formosa",
+                                    "location_confidence": {
+                                      "Corrientes": 0.002197759661291636,
+                                      "Formosa": 0.9718975361265975,
+                                      "Misiones": 0.02195235468704542
+                                    },
+                                    "location_entropy": 0.15516744502138782,
+                                    "num_date": 2011.255548259426,
+                                    "num_date_confidence": [
+                                      2010.467200256199,
+                                      2011.9917407090202
+                                    ]
+                                  },
+                                  "branch_length": 0.00822079,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "T11I",
+                                          "F17S",
+                                          "L27P",
+                                          "S31F",
+                                          "L52P",
+                                          "L63S",
+                                          "E75G",
+                                          "R83K",
+                                          "F106S",
+                                          "S117L",
+                                          "R120K",
+                                          "S136L",
+                                          "P142L",
+                                          "R155Q",
+                                          "K163R",
+                                          "C173Y",
+                                          "T177I"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.03364947807915317,
+                                        "country": "Argentina",
+                                        "country_confidence": {
+                                          "Argentina": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2015-12-30",
+                                        "div": 1.3452267799999997,
+                                        "location": "Formosa",
+                                        "location_confidence": {
+                                          "Formosa": 0.9999999999999999
+                                        },
+                                        "location_entropy": -9.99866855976916e-13,
+                                        "num_date": 2015.9993155373031,
+                                        "num_date_confidence": [
+                                          2015.2241770151927,
+                                          2015.9993155373031
+                                        ],
+                                        "raw_date": "2015-XX-XX",
+                                        "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                        "virus": "CsCMV"
+                                      },
+                                      "branch_length": 0.03364948,
+                                      "clade": 35,
+                                      "muts": [
+                                        "G6A",
+                                        "C15T",
+                                        "C24T",
+                                        "C27T",
+                                        "G30A",
+                                        "T45C",
+                                        "C108T",
+                                        "T126C",
+                                        "T156C",
+                                        "C168T",
+                                        "G183A",
+                                        "T231C",
+                                        "T264C",
+                                        "A300G",
+                                        "A310G",
+                                        "G324A",
+                                        "T393C",
+                                        "C394A",
+                                        "C426T",
+                                        "G435A",
+                                        "C483T",
+                                        "C501T",
+                                        "G540A",
+                                        "C559T",
+                                        "A564G",
+                                        "G594A",
+                                        "C606T"
+                                      ],
+                                      "strain": "KY445960",
+                                      "yvalue": 13
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "K7R",
+                                          "C12F",
+                                          "Q13R",
+                                          "T33I",
+                                          "S43L",
+                                          "R47K",
+                                          "L52Q",
+                                          "G55E",
+                                          "R56K",
+                                          "S62F",
+                                          "Q81R",
+                                          "T128A",
+                                          "H130Y",
+                                          "I132T",
+                                          "T133I",
+                                          "A151V",
+                                          "T153M",
+                                          "S165N"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.03364947807915317,
+                                        "country": "Argentina",
+                                        "country_confidence": {
+                                          "Argentina": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2015-12-30",
+                                        "div": 1.3436308799999996,
+                                        "location": "Formosa",
+                                        "location_confidence": {
+                                          "Formosa": 0.9999999999999999
+                                        },
+                                        "location_entropy": -9.99866855976916e-13,
+                                        "num_date": 2015.9993155373031,
+                                        "num_date_confidence": [
+                                          2015.2050646348498,
+                                          2015.9993155373031
+                                        ],
+                                        "raw_date": "2015-XX-XX",
+                                        "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                        "virus": "CsCMV"
+                                      },
+                                      "branch_length": 0.03364948,
+                                      "clade": 36,
+                                      "muts": [
+                                        "C75T",
+                                        "A96G",
+                                        "G111T",
+                                        "A114G",
+                                        "C174T",
+                                        "C204T",
+                                        "G216A",
+                                        "T231A",
+                                        "G240A",
+                                        "G243A",
+                                        "C253T",
+                                        "C261T",
+                                        "A318G",
+                                        "A458G",
+                                        "C464T",
+                                        "T471C",
+                                        "C474T",
+                                        "C528T",
+                                        "C534T",
+                                        "C544T",
+                                        "G570A"
+                                      ],
+                                      "strain": "KY445959",
+                                      "yvalue": 12
+                                    }
+                                  ],
+                                  "clade": 37,
+                                  "muts": [
+                                    "T109C",
+                                    "G282A",
+                                    "A396G",
+                                    "C446T",
+                                    "C450T",
+                                    "C453T",
+                                    "C495T",
+                                    "G531A"
+                                  ],
+                                  "strain": "NODE_0000023",
+                                  "yvalue": 12.5
+                                }
+                              ],
+                              "clade": 38,
+                              "muts": [
+                                "T9C",
+                                "A21C",
+                                "A63G",
+                                "T177C",
+                                "C252T",
+                                "G333A",
+                                "T441C",
+                                "T522C",
+                                "T546G",
+                                "A567T",
+                                "A600G"
+                              ],
+                              "strain": "NODE_0000021",
+                              "yvalue": 13.5
+                            },
+                            {
+                              "aa_muts": {
+                                "CsCMVgp1": [
+                                  "S79*",
+                                  "R124Q",
+                                  "S136L"
+                                ]
+                              },
+                              "attr": {
+                                "clock_length": 0.004343385961495597,
+                                "country": "Argentina",
+                                "country_confidence": {
+                                  "Argentina": 0.9998345246302665
+                                },
+                                "country_entropy": 0.0017404340590806402,
+                                "date": "2008-10-17",
+                                "div": 1.2733351899999998,
+                                "location": "Formosa",
+                                "location_confidence": {
+                                  "Corrientes": 0.024781341568345477,
+                                  "Formosa": 0.9003927022275389,
+                                  "Misiones": 0.05895823194194973,
+                                  "Province_of_Huaral": 0.005439659227974674
+                                },
+                                "location_entropy": 0.4437723549468495,
+                                "num_date": 2008.7961628408527,
+                                "num_date_confidence": [
+                                  2008.1488961006241,
+                                  2009.2919653788613
+                                ]
+                              },
+                              "branch_length": 0.00434339,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "CsCMVgp1": [
+                                      "T5I",
+                                      "M20T",
+                                      "S31F",
+                                      "L63S",
+                                      "S80N",
+                                      "P147L"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "clock_length": 0.011683792706435936,
+                                    "country": "Argentina",
+                                    "country_confidence": {
+                                      "Argentina": 0.9710331570261765,
+                                      "Peru": 0.026621315149543842
+                                    },
+                                    "country_entropy": 0.1429914214835448,
+                                    "date": "2010-06-10",
+                                    "div": 1.2817268199999998,
+                                    "location": "Formosa",
+                                    "location_confidence": {
+                                      "Corrientes": 0.1656216138691581,
+                                      "Formosa": 0.6093811337653411,
+                                      "Misiones": 0.04087350597229073,
+                                      "Province_of_Huaral": 0.14646831135220498
+                                    },
+                                    "location_entropy": 1.2165265107361058,
+                                    "num_date": 2010.4432966653928,
+                                    "num_date_confidence": [
+                                      2009.3585528249425,
+                                      2011.0317765294676
+                                    ]
+                                  },
+                                  "branch_length": 0.01168379,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "L9P",
+                                          "P39Q",
+                                          "G48E",
+                                          "R57G",
+                                          "S62F",
+                                          "N66S",
+                                          "R70K",
+                                          "P84L",
+                                          "R86H",
+                                          "N90R",
+                                          "T96M",
+                                          "G105E",
+                                          "S109F",
+                                          "T125I",
+                                          "S126F",
+                                          "H127P",
+                                          "R155Q",
+                                          "Y161F"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.03231770198203351,
+                                        "country": "Argentina",
+                                        "country_confidence": {
+                                          "Argentina": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2014-12-30",
+                                        "div": 1.3190866799999998,
+                                        "location": "Corrientes",
+                                        "location_confidence": {
+                                          "Corrientes": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2014.9993155373031,
+                                        "num_date_confidence": [
+                                          2014.1534083958338,
+                                          2014.9993155373031
+                                        ],
+                                        "raw_date": "2014-XX-XX",
+                                        "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                        "virus": "CsCMV"
+                                      },
+                                      "branch_length": 0.0323177,
+                                      "clade": 39,
+                                      "muts": [
+                                        "T9C",
+                                        "C15T",
+                                        "G30A",
+                                        "T102C",
+                                        "C192A",
+                                        "G219A",
+                                        "A245G",
+                                        "C261T",
+                                        "A273G",
+                                        "G285A",
+                                        "C327T",
+                                        "G333A",
+                                        "A345G",
+                                        "T346G",
+                                        "C363T",
+                                        "G390A",
+                                        "C402T",
+                                        "C450T",
+                                        "C453T",
+                                        "A456C",
+                                        "G540A",
+                                        "A558T"
+                                      ],
+                                      "strain": "MH021183",
+                                      "yvalue": 11
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "*26W",
+                                          "L27P",
+                                          "L28P",
+                                          "L40P",
+                                          "S43L",
+                                          "N50S",
+                                          "R69K",
+                                          "R72K",
+                                          "L76R",
+                                          "K78R",
+                                          "P92L",
+                                          "A151V",
+                                          "R160K"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.03185106345431647,
+                                        "country": "Peru",
+                                        "country_confidence": {
+                                          "Argentina": 0.004669707490540414,
+                                          "Peru": 0.9950557762692817
+                                        },
+                                        "country_entropy": 0.03268428426810854,
+                                        "date": "2014-12-06",
+                                        "div": 1.3106598399999998,
+                                        "location": "Province_of_Huaral",
+                                        "location_confidence": {
+                                          "Formosa": 0.0033749237042274066,
+                                          "Province_of_Huaral": 0.9951591831975183
+                                        },
+                                        "location_entropy": 0.03664865384492961,
+                                        "num_date": 2014.9335307256288,
+                                        "num_date_confidence": [
+                                          2014.2413342412558,
+                                          2015.5653925853462
+                                        ]
+                                      },
+                                      "branch_length": 0.03185106,
+                                      "children": [
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "R56K",
+                                              "R86H",
+                                              "A97V",
+                                              "G105E",
+                                              "S109F",
+                                              "T135I"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.011118888878544272,
+                                            "country": "Peru",
+                                            "country_confidence": {
+                                              "Peru": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2016-07-01",
+                                            "div": 1.3210509999999998,
+                                            "location": "Province_of_Huaral",
+                                            "location_confidence": {
+                                              "Province_of_Huaral": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2016.501026694045,
+                                            "num_date_confidence": [
+                                              2016.501026694045,
+                                              2016.5749314921518
+                                            ],
+                                            "raw_date": "2016-07-XX",
+                                            "url": "https://doi.org/10.1016/j.virusres.2017.03.019",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.01111889,
+                                          "clade": 40,
+                                          "muts": [
+                                            "T142C",
+                                            "G243A",
+                                            "G333A",
+                                            "C366T",
+                                            "G390A",
+                                            "C402T",
+                                            "C480T"
+                                          ],
+                                          "strain": "KX964626",
+                                          "yvalue": 10
+                                        },
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "L19S",
+                                              "S59F",
+                                              "T137I",
+                                              "E154G"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.010536268075399813,
+                                            "country": "Peru",
+                                            "country_confidence": {
+                                              "Peru": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2016-06-01",
+                                            "div": 1.3186563999999998,
+                                            "location": "Province_of_Huaral",
+                                            "location_confidence": {
+                                              "Province_of_Huaral": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2016.4188911704312,
+                                            "num_date_confidence": [
+                                              2016.4188911704312,
+                                              2016.4902263688302
+                                            ],
+                                            "raw_date": "2016-06-XX",
+                                            "url": "https://apsjournals.apsnet.org/doi/10.1094/PDIS-10-16-1540-PDN",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.01053627,
+                                          "clade": 41,
+                                          "muts": [
+                                            "C66T",
+                                            "T132C",
+                                            "C252T",
+                                            "C486T",
+                                            "A537G"
+                                          ],
+                                          "strain": "KX964625",
+                                          "yvalue": 9
+                                        }
+                                      ],
+                                      "clade": 42,
+                                      "muts": [
+                                        "C27T",
+                                        "A33G",
+                                        "G57A",
+                                        "A153G",
+                                        "T156C",
+                                        "T159C",
+                                        "T195C",
+                                        "C204T",
+                                        "A225G",
+                                        "G282A",
+                                        "G291A",
+                                        "T303G",
+                                        "A309G",
+                                        "C351T",
+                                        "C528T",
+                                        "G555A"
+                                      ],
+                                      "strain": "NODE_0000026",
+                                      "yvalue": 9.5
+                                    }
+                                  ],
+                                  "clade": 43,
+                                  "muts": [
+                                    "C90T",
+                                    "T135C",
+                                    "C168T",
+                                    "T264C",
+                                    "G315A",
+                                    "C516T"
+                                  ],
+                                  "strain": "NODE_0000025",
+                                  "yvalue": 10.25
+                                },
+                                {
+                                  "aa_muts": {
+                                    "CsCMVgp1": [
+                                      "S2F",
+                                      "G48E",
+                                      "G49D",
+                                      "L52R",
+                                      "S73N",
+                                      "S117L"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "clock_length": 0.00496526460415897,
+                                    "country": "Argentina",
+                                    "country_confidence": {
+                                      "Argentina": 0.9997032130669884
+                                    },
+                                    "country_entropy": 0.0027849301825291265,
+                                    "date": "2009-06-30",
+                                    "div": 1.2844704799999997,
+                                    "location": "Formosa",
+                                    "location_confidence": {
+                                      "Corrientes": 0.02270367847434059,
+                                      "Formosa": 0.8960675969567771,
+                                      "Misiones": 0.06539101974937181,
+                                      "Parana": 0.01142216080255736
+                                    },
+                                    "location_entropy": 0.4446273902978171,
+                                    "num_date": 2009.4961457558866,
+                                    "num_date_confidence": [
+                                      2009.089117751072,
+                                      2010.0139822936037
+                                    ]
+                                  },
+                                  "branch_length": 0.00496526,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "L9P",
+                                          "L27P",
+                                          "L28P",
+                                          "G29E",
+                                          "R57K",
+                                          "S80N"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.005894932685283974,
+                                        "country": "Brazil",
+                                        "country_confidence": {
+                                          "Argentina": 0.4156115107895602,
+                                          "Brazil": 0.5528276425747298,
+                                          "China": 0.026988128858841696,
+                                          "Peru": 0.0014054116454999541
+                                        },
+                                        "country_entropy": 0.8210024255205393,
+                                        "date": "2010-04-29",
+                                        "div": 1.2974030699999997,
+                                        "location": "Parana",
+                                        "location_confidence": {
+                                          "Formosa": 0.36655952062886743,
+                                          "Hainan_Danzhou": 0.031527079704765926,
+                                          "Misiones": 0.025456778385733323,
+                                          "Parana": 0.5511822895541524
+                                        },
+                                        "location_entropy": 1.0391850427661975,
+                                        "num_date": 2010.3271895156727,
+                                        "num_date_confidence": [
+                                          2009.9799337747572,
+                                          2010.6059370111643
+                                        ]
+                                      },
+                                      "branch_length": 0.00589493,
+                                      "children": [
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "E8G",
+                                              "F17S",
+                                              "L34P",
+                                              "L54S",
+                                              "S59F",
+                                              "*79L",
+                                              "G101D",
+                                              "G104E",
+                                              "M143T",
+                                              "A151V"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.06625843488443849,
+                                            "country": "China",
+                                            "country_confidence": {
+                                              "China": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2019-09-01",
+                                            "div": 1.3202534199999996,
+                                            "location": "Hainan_Danzhou",
+                                            "location_confidence": {
+                                              "Hainan_Danzhou": 0.9999999999999999
+                                            },
+                                            "location_entropy": -9.99866855976916e-13,
+                                            "num_date": 2019.6680355920603,
+                                            "num_date_confidence": [
+                                              2019.6680355920603,
+                                              2019.7394934976044
+                                            ],
+                                            "raw_date": "2019-09-XX",
+                                            "url": "https://doi.org/10.1007/s10658-020-02088-5",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.06625843,
+                                          "clade": 44,
+                                          "muts": [
+                                            "T9C",
+                                            "C24T",
+                                            "C27T",
+                                            "A99G",
+                                            "T126C",
+                                            "T177C",
+                                            "T237C",
+                                            "C252T",
+                                            "A255G",
+                                            "A312T",
+                                            "G378A",
+                                            "G387A",
+                                            "T504C",
+                                            "C528T"
+                                          ],
+                                          "strain": "MT038420",
+                                          "yvalue": 8
+                                        },
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "H18R",
+                                              "L19X",
+                                              "M20X",
+                                              "*26X",
+                                              "*36X",
+                                              "*60X",
+                                              "L63X",
+                                              "*74X",
+                                              "K78R",
+                                              "*79X",
+                                              "*85S",
+                                              "*103X",
+                                              "*115X",
+                                              "*116X",
+                                              "L122P",
+                                              "*131X",
+                                              "T133I",
+                                              "T141M",
+                                              "R155Q",
+                                              "*162X"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.0047676642858844875,
+                                            "country": "Brazil",
+                                            "country_confidence": {
+                                              "Brazil": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2010-12-30",
+                                            "div": 1.3120564299999997,
+                                            "location": "Parana",
+                                            "location_confidence": {
+                                              "Parana": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2010.9993155373031,
+                                            "num_date_confidence": [
+                                              2010.6427166735482,
+                                              2010.9993155373031
+                                            ],
+                                            "raw_date": "2010-XX-XX",
+                                            "url": "https://doi.org/10.1590/S1982-56762011000500001",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.00476766,
+                                          "clade": 45,
+                                          "muts": [
+                                            "A129G",
+                                            "T132-",
+                                            "G133-",
+                                            "A134-",
+                                            "T264G",
+                                            "T295C",
+                                            "A309G",
+                                            "A330C",
+                                            "T441C",
+                                            "C474T",
+                                            "C498T",
+                                            "G540A"
+                                          ],
+                                          "strain": "JF913280",
+                                          "yvalue": 7
+                                        }
+                                      ],
+                                      "clade": 46,
+                                      "muts": [
+                                        "T45C",
+                                        "T102C",
+                                        "T109C",
+                                        "T156C",
+                                        "T159C",
+                                        "G162A",
+                                        "G246A",
+                                        "G315A"
+                                      ],
+                                      "strain": "NODE_0000031",
+                                      "yvalue": 7.5
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "P16L",
+                                          "S31F",
+                                          "K41R",
+                                          "Y61S",
+                                          "*74W"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.0073890240834665055,
+                                        "country": "Argentina",
+                                        "country_confidence": {
+                                          "Argentina": 0.9997753562948305
+                                        },
+                                        "country_entropy": 0.002460334844005664,
+                                        "date": "2010-07-15",
+                                        "div": 1.2910273799999998,
+                                        "location": "Misiones",
+                                        "location_confidence": {
+                                          "Corrientes": 0.09408015527219077,
+                                          "Formosa": 0.37987372703382927,
+                                          "Misiones": 0.5086122151190798,
+                                          "Parana": 0.004806897846905532
+                                        },
+                                        "location_entropy": 1.0420579068003373,
+                                        "num_date": 2010.5378204760752,
+                                        "num_date_confidence": [
+                                          2009.8769649836913,
+                                          2011.121301896596
+                                        ]
+                                      },
+                                      "branch_length": 0.00738902,
+                                      "children": [
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "R14K",
+                                              "I35T",
+                                              "D49G",
+                                              "N50S",
+                                              "R52Q",
+                                              "T53I",
+                                              "S59F",
+                                              "S61F",
+                                              "R86H",
+                                              "S93L",
+                                              "P123L",
+                                              "T137I",
+                                              "I149T",
+                                              "T167S",
+                                              "T177I"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.03164720600084397,
+                                            "country": "Argentina",
+                                            "country_confidence": {
+                                              "Argentina": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2014-12-30",
+                                            "div": 1.3259776699999999,
+                                            "location": "Misiones",
+                                            "location_confidence": {
+                                              "Misiones": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2014.9993155373031,
+                                            "num_date_confidence": [
+                                              2014.1526664440707,
+                                              2014.9993155373031
+                                            ],
+                                            "raw_date": "2014-XX-XX",
+                                            "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.03164721,
+                                          "clade": 47,
+                                          "muts": [
+                                            "T9C",
+                                            "G57A",
+                                            "C66T",
+                                            "C75T",
+                                            "G117A",
+                                            "T180C",
+                                            "C181T",
+                                            "A222G",
+                                            "A225G",
+                                            "G231A",
+                                            "C234T",
+                                            "C252T",
+                                            "C258T",
+                                            "G277A",
+                                            "G333A",
+                                            "C354T",
+                                            "C444T",
+                                            "A445G",
+                                            "C486T",
+                                            "T522C",
+                                            "A575T",
+                                            "C606T"
+                                          ],
+                                          "strain": "KY445963",
+                                          "yvalue": 6
+                                        },
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "C12Y",
+                                              "S43L",
+                                              "R57K",
+                                              "R69K",
+                                              "E75G",
+                                              "L76P",
+                                              "P84Q",
+                                              "P92L",
+                                              "T102I",
+                                              "I108T",
+                                              "L136S",
+                                              "P147L",
+                                              "T153M",
+                                              "R160K",
+                                              "S169F",
+                                              "L174S"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.024566406436862517,
+                                            "country": "Argentina",
+                                            "country_confidence": {
+                                              "Argentina": 0.9999960474361727
+                                            },
+                                            "country_entropy": 5.9888361036344436e-05,
+                                            "date": "2014-01-01",
+                                            "div": 1.3210182499999998,
+                                            "location": "Misiones",
+                                            "location_confidence": {
+                                              "Corrientes": 0.4597887179227844,
+                                              "Formosa": 0.01660952546060487,
+                                              "Misiones": 0.5211872527913594
+                                            },
+                                            "location_entropy": 0.7850277620889171,
+                                            "num_date": 2014.0010930628323,
+                                            "num_date_confidence": [
+                                              2013.8328563858092,
+                                              2014.6932941406735
+                                            ]
+                                          },
+                                          "branch_length": 0.02456641,
+                                          "children": [
+                                            {
+                                              "aa_muts": {
+                                                "CsCMVgp1": [
+                                                  "S25N"
+                                                ]
+                                              },
+                                              "attr": {
+                                                "clock_length": 0.004873802183166423,
+                                                "country": "Argentina",
+                                                "country_confidence": {
+                                                  "Argentina": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2014-09-08",
+                                                "div": 1.3224645599999998,
+                                                "location": "Misiones",
+                                                "location_confidence": {
+                                                  "Misiones": 1.0
+                                                },
+                                                "location_entropy": -1.000088900581841e-12,
+                                                "num_date": 2014.6881819758005,
+                                                "num_date_confidence": [
+                                                  2014.002737850787,
+                                                  2014.9993155373031
+                                                ],
+                                                "raw_date": "2014-XX-XX",
+                                                "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                                "virus": "CsCMV"
+                                              },
+                                              "branch_length": 0.0048738,
+                                              "clade": 48,
+                                              "muts": [
+                                                "G150A"
+                                              ],
+                                              "strain": "KY445955",
+                                              "yvalue": 5
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 0.001213580598467108,
+                                                "country": "Argentina",
+                                                "country_confidence": {
+                                                  "Argentina": 0.9999999999999999
+                                                },
+                                                "country_entropy": -9.99866855976916e-13,
+                                                "date": "2014-03-03",
+                                                "div": 1.3210208499999998,
+                                                "location": "Corrientes",
+                                                "location_confidence": {
+                                                  "Corrientes": 1.0
+                                                },
+                                                "location_entropy": -1.000088900581841e-12,
+                                                "num_date": 2014.1721787456038,
+                                                "num_date_confidence": [
+                                                  2014.002737850787,
+                                                  2014.9993155373031
+                                                ],
+                                                "raw_date": "2014-XX-XX",
+                                                "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                                "virus": "CsCMV"
+                                              },
+                                              "branch_length": 0.00121358,
+                                              "clade": 49,
+                                              "muts": [],
+                                              "strain": "KY445956",
+                                              "yvalue": 4
+                                            }
+                                          ],
+                                          "clade": 50,
+                                          "muts": [
+                                            "A48G",
+                                            "A63G",
+                                            "G111A",
+                                            "C204T",
+                                            "G246A",
+                                            "G282A",
+                                            "A300G",
+                                            "T303C",
+                                            "C327A",
+                                            "C351T",
+                                            "C381T",
+                                            "T399C",
+                                            "T483C",
+                                            "C516T",
+                                            "C534T",
+                                            "G555A",
+                                            "C582T",
+                                            "T597C"
+                                          ],
+                                          "strain": "NODE_0000029",
+                                          "yvalue": 4.5
+                                        }
+                                      ],
+                                      "clade": 51,
+                                      "muts": [
+                                        "C123T",
+                                        "C168T",
+                                        "A198G",
+                                        "A258C",
+                                        "A297G"
+                                      ],
+                                      "strain": "NODE_0000028",
+                                      "yvalue": 5.25
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "CsCMVgp1": [
+                                          "M20T",
+                                          "R69K",
+                                          "R83K",
+                                          "L91P",
+                                          "P140L"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.010246915524424707,
+                                        "country": "Argentina",
+                                        "country_confidence": {
+                                          "Argentina": 0.9997803630428562
+                                        },
+                                        "country_entropy": 0.002427511545325619,
+                                        "date": "2010-12-09",
+                                        "div": 1.2916186799999998,
+                                        "location": "Formosa",
+                                        "location_confidence": {
+                                          "Corrientes": 0.0036420571538056524,
+                                          "Formosa": 0.9831498484549248,
+                                          "Misiones": 0.009936702371176737,
+                                          "Parana": 0.0015239286778856581
+                                        },
+                                        "location_entropy": 0.10742493765022805,
+                                        "num_date": 2010.9407144487382,
+                                        "num_date_confidence": [
+                                          2010.3315083134144,
+                                          2011.817399061586
+                                        ]
+                                      },
+                                      "branch_length": 0.01024692,
+                                      "children": [
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "H18R",
+                                              "S43*",
+                                              "N50S",
+                                              "*74W",
+                                              "G105E",
+                                              "I108T",
+                                              "Q124R",
+                                              "T135I",
+                                              "T167I",
+                                              "S169F",
+                                              "L174S"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.028813590426683723,
+                                            "country": "Argentina",
+                                            "country_confidence": {
+                                              "Argentina": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2015-01-01",
+                                            "div": 1.3126593299999998,
+                                            "location": "Formosa",
+                                            "location_confidence": {
+                                              "Formosa": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2015.002737850787,
+                                            "num_date_confidence": [
+                                              2015.002737850787,
+                                              2015.7986190406139
+                                            ],
+                                            "raw_date": "2015-XX-XX",
+                                            "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                            "virus": "CsCMV"
+                                          },
+                                          "branch_length": 0.02881359,
+                                          "clade": 52,
+                                          "muts": [
+                                            "C75T",
+                                            "A129G",
+                                            "C204G",
+                                            "A225G",
+                                            "A297G",
+                                            "G390A",
+                                            "T399C",
+                                            "A447G",
+                                            "C466T",
+                                            "C480T",
+                                            "C576T",
+                                            "C582T",
+                                            "T597C"
+                                          ],
+                                          "strain": "KY445957",
+                                          "yvalue": 3
+                                        },
+                                        {
+                                          "aa_muts": {
+                                            "CsCMVgp1": [
+                                              "F1S",
+                                              "R30K",
+                                              "S38N",
+                                              "R47K",
+                                              "T96M",
+                                              "Q100P",
+                                              "H127R",
+                                              "T141M",
+                                              "R155Q",
+                                              "F157C"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.02164475845292014,
+                                            "country": "Argentina",
+                                            "country_confidence": {
+                                              "Argentina": 0.9999900799320559
+                                            },
+                                            "country_entropy": 0.0001411798406714491,
+                                            "date": "2013-12-28",
+                                            "div": 1.3154947,
+                                            "location": "Formosa",
+                                            "location_confidence": {
+                                              "Formosa": 0.999942623166641
+                                            },
+                                            "location_entropy": 0.0007314151059785277,
+                                            "num_date": 2013.9921049233537,
+                                            "num_date_confidence": [
+                                              2013.4356443584522,
+                                              2014.4274685841315
+                                            ]
+                                          },
+                                          "branch_length": 0.02164476,
+                                          "children": [
+                                            {
+                                              "aa_muts": {
+                                                "CsCMVgp1": [
+                                                  "Q124*",
+                                                  "Q146R"
+                                                ]
+                                              },
+                                              "attr": {
+                                                "clock_length": 0.0026308525547670894,
+                                                "country": "Argentina",
+                                                "country_confidence": {
+                                                  "Argentina": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2014-05-12",
+                                                "div": 1.31810597,
+                                                "location": "Formosa",
+                                                "location_confidence": {
+                                                  "Formosa": 1.0
+                                                },
+                                                "location_entropy": -1.000088900581841e-12,
+                                                "num_date": 2014.3629918724132,
+                                                "num_date_confidence": [
+                                                  2014.002737850787,
+                                                  2014.9993155373031
+                                                ],
+                                                "raw_date": "2014-XX-XX",
+                                                "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                                "virus": "CsCMV"
+                                              },
+                                              "branch_length": 0.00263085,
+                                              "clade": 53,
+                                              "muts": [
+                                                "C446T",
+                                                "A513G"
+                                              ],
+                                              "strain": "KY445952",
+                                              "yvalue": 2
+                                            },
+                                            {
+                                              "aa_muts": {
+                                                "CsCMVgp1": [
+                                                  "S22G",
+                                                  "C23R",
+                                                  "L63*"
+                                                ]
+                                              },
+                                              "attr": {
+                                                "clock_length": 0.006356323775727084,
+                                                "country": "Argentina",
+                                                "country_confidence": {
+                                                  "Argentina": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2014-11-20",
+                                                "div": 1.32033158,
+                                                "location": "Formosa",
+                                                "location_confidence": {
+                                                  "Formosa": 1.0
+                                                },
+                                                "location_entropy": -1.000088900581841e-12,
+                                                "num_date": 2014.8881937323379,
+                                                "num_date_confidence": [
+                                                  2014.002737850787,
+                                                  2014.9993155373031
+                                                ],
+                                                "raw_date": "2014-XX-XX",
+                                                "url": "https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.12869",
+                                                "virus": "CsCMV"
+                                              },
+                                              "branch_length": 0.00635632,
+                                              "clade": 54,
+                                              "muts": [
+                                                "A140G",
+                                                "T143C",
+                                                "T264A"
+                                              ],
+                                              "strain": "KY445951",
+                                              "yvalue": 1
+                                            }
+                                          ],
+                                          "clade": 55,
+                                          "muts": [
+                                            "A43G",
+                                            "A63G",
+                                            "T78C",
+                                            "G165A",
+                                            "G183A",
+                                            "G189A",
+                                            "G216A",
+                                            "C363T",
+                                            "A375C",
+                                            "A456G",
+                                            "G468A",
+                                            "C498T",
+                                            "G540A",
+                                            "T546G"
+                                          ],
+                                          "strain": "NODE_0000033",
+                                          "yvalue": 1.5
+                                        }
+                                      ],
+                                      "clade": 56,
+                                      "muts": [
+                                        "T135C",
+                                        "G282A",
+                                        "G324A",
+                                        "T348C",
+                                        "C495T"
+                                      ],
+                                      "strain": "NODE_0000032",
+                                      "yvalue": 2.25
+                                    }
+                                  ],
+                                  "clade": 57,
+                                  "muts": [
+                                    "C81T",
+                                    "G219A",
+                                    "G222A",
+                                    "T231G",
+                                    "G294A",
+                                    "C426T",
+                                    "A468G"
+                                  ],
+                                  "strain": "NODE_0000027",
+                                  "yvalue": 4.875
+                                }
+                              ],
+                              "clade": 58,
+                              "muts": [
+                                "G48A",
+                                "C312A",
+                                "G447A",
+                                "C483T"
+                              ],
+                              "strain": "NODE_0000024",
+                              "yvalue": 7.5625
+                            }
+                          ],
+                          "clade": 59,
+                          "muts": [
+                            "C78T",
+                            "C159T",
+                            "A165G",
+                            "G297A",
+                            "A324G",
+                            "A378G",
+                            "A540G"
+                          ],
+                          "strain": "NODE_0000020",
+                          "yvalue": 10.53125
+                        }
+                      ],
+                      "clade": 60,
+                      "muts": [
+                        "A6G",
+                        "A30G",
+                        "G87C",
+                        "A111G",
+                        "C160A",
+                        "A177T",
+                        "C336T",
+                        "A390G",
+                        "G411A",
+                        "T447G",
+                        "T558A",
+                        "G603A"
+                      ],
+                      "strain": "NODE_0000017",
+                      "yvalue": 13.765625
+                    }
+                  ],
+                  "clade": 61,
+                  "muts": [
+                    "A48G",
+                    "C132T",
+                    "G204C",
+                    "A291G",
+                    "G342A",
+                    "C360A",
+                    "A394C",
+                    "G438A",
+                    "C471T",
+                    "T483C",
+                    "T498C",
+                    "C585T"
+                  ],
+                  "strain": "NODE_0000009",
+                  "yvalue": 19.8359375
+                }
+              ],
+              "clade": 62,
+              "muts": [
+                "C10A",
+                "A25C",
+                "G43A",
+                "C54G",
+                "C142T",
+                "T144G",
+                "T154G",
+                "T194C",
+                "G195T",
+                "A252C",
+                "G255A",
+                "T258A",
+                "G264T",
+                "C270T",
+                "G273A",
+                "C321G",
+                "G346T",
+                "T375A",
+                "G378A",
+                "G393T",
+                "G400A",
+                "G402C",
+                "C420A",
+                "T459C",
+                "G479A",
+                "G489A",
+                "C492G",
+                "T528C",
+                "G537A",
+                "G540A",
+                "G546T",
+                "A549G",
+                "C558T",
+                "G561A",
+                "A570G",
+                "T576C",
+                "T577A",
+                "C578A",
+                "G588A"
+              ],
+              "strain": "NODE_0000010",
+              "yvalue": 24.66796875
+            }
+          ],
+          "clade": 63,
+          "muts": [],
+          "strain": "NODE_0000012",
+          "yvalue": 28.458984375
+        }
+      ],
+      "clade": 64,
+      "muts": [],
+      "strain": "NODE_0000015",
+      "yvalue": 31.2294921875
+    }
+  ],
+  "clade": 65,
+  "muts": [],
+  "strain": "NODE_0000016",
+  "yvalue": 33.36474609375
+}
